@@ -7,6 +7,10 @@ evaluate knowledge graph embedding models (incorporating multi-modal information
 
 <ul>
 {% for entry in site.data.publications %}
-<li>[{{ entry.name }}]({{ entry.url }})</li>
+<li>
+[**{{ entry.name }}**]({{ entry.url }})
+<br /> {{ entry.authors }} ({{ entry.year}}).
+<br /> <i>{{ entry.journal }}</i> <b>{{ entry.volume }}</b>({{ entry.issue }}) {{ entry.pages }}</b>
+</li>
 {% endfor %}
 </ul>

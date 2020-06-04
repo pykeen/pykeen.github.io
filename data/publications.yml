@@ -1,4 +1,13 @@
 - title: "BioKEEN: a library for learning and evaluating biological knowledge graph embeddings"
-  url: https://identifiers.org/doi:10.1093/bioinformatics/btz117
+  url: "https://identifiers.org/doi:10.1093/bioinformatics/btz117"
+  authors: Ali, M., Hoyt, C. T., Domingo-Fernández, D., Lehmann, J., & Jabeen, H.
+  year: 2019
+  journal: Bioinformatics
+  volume: 35
+  issue: 18
+  pages: 3538–3540
 - title: "The KEEN Universe: An Ecosystem for Knowledge Graph Embeddings with a Focus on Reproducibility and Transferability"
-  url: https://arxiv.org/abs/2001.10560
+  url: "https://doi.org/10.1007/978-3-030-30796-7_1"
+  authors: Ali, M., Jabeen, H., Hoyt, C. T., & Lehmann, J.
+  year: 2019
+  pages: 3-19
