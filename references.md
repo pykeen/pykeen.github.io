@@ -7,17 +7,17 @@ permalink: /references/
 <br /> Ali, M., Jabeen, H., Hoyt, C. T., & Lehmann, J. (2019).
 <br /> *The Semantic Web -- ISWC*, **2019**, 3–18.
 
-[**Metaresearch recommendations using knowledge graph embeddings**](https://recnlp2019.github.io/papers/RecNLP2019_paper_20.pdf)
-<br /> Henk, V., Vahdati, S., Nayyeri, M., Ali, M., Yazdi, H. S., & Lehmann, J. (2019).
-<br /> *In RecNLP workshop of AAAI Conference*.
+[**Predicting Missing Links Using PyKEEN**](http://ceur-ws.org/Vol-2456/paper64.pdf)
+<br /> Ali, M., Hoyt, C. T., Domingo-Fernández, D., & Lehmann, J. (2019).
+<br /> *In ISWC Satellites*, **2019**, 245-248.
 
 [**BioKEEN: a library for learning and evaluating biological knowledge graph embeddings**](https://doi.org/10.1093/bioinformatics/btz117).
 <br />Ali, M., Hoyt, C. T., Domingo-Fernández, D., Lehmann, J., & Jabeen, H. (2019).
 <br /> *Bioinformatics*, **35**(18), 3538–3540. 
 
-[**Predicting Missing Links Using PyKEEN**](http://ceur-ws.org/Vol-2456/paper64.pdf)
-<br /> Ali, M., Hoyt, C. T., Domingo-Fernández, D., & Lehmann, J. (2019).
-<br /> *In ISWC Satellites*, **2019**, 245-248.
+[**Metaresearch recommendations using knowledge graph embeddings**](https://recnlp2019.github.io/papers/RecNLP2019_paper_20.pdf)
+<br /> Henk, V., Vahdati, S., Nayyeri, M., Ali, M., Yazdi, H. S., & Lehmann, J. (2019).
+<br /> *In RecNLP workshop of AAAI Conference*.
 
 [**Improving Access to Science for Social Good**](https://drive.google.com/file/d/1xHZyXRI1AShU8mgmOUZmrdX5mSmxWRvj/view).
 <br /> Ali, M., Vahdati, S., Singh, S., Dasgupta, S., & Lehmann, J. (2019, September)
