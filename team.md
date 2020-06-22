@@ -3,8 +3,6 @@ layout: page
 title: Team
 permalink: /team/
 ---
-## Core Team
-
 <table>
 <tr>
 <td>
