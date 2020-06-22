@@ -3,6 +3,9 @@ layout: page
 title: Team
 permalink: /team/
 ---
+PyKEEN is developed by an international, interdisciplinary, decentralized team. We're
+from 🇩🇪, 🇮🇷, 🇺🇸, 🇩🇰, and 🇪🇸.
+
 <table>
 <tr>
 <td style="text-align:center; width:200px; vertical-align: top; max-height: 200px">
@@ -56,3 +59,9 @@ permalink: /team/
 </td>
 </tr>
 </table>
+
+## Contributors
+
+- [Daniel Domingo Fernández](https://github.com/ddomingof)
+- [Michael F. Schönitzer](https://github.com/Nudin)
+- [Maximilian Hünemörder](https://github.com/huenemoerder)
