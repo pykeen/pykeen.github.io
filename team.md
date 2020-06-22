@@ -51,6 +51,8 @@ permalink: /team/
 <br />
 <b><a href="https://www.dbs.ifi.lmu.de/~tresp/">Volker Tresp, Ph.D.</a></b>
 </td>
-<td><div style="display: block; visibility: hidden; width: 200px"></div></td>
+<td style="width:200px;">
+<div style="display: block; visibility: hidden; width: 200px"></div>
+</td>
 </tr>
 </table>
