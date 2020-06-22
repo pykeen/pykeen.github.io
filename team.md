@@ -12,7 +12,7 @@ from and living in 🇩🇪, 🇮🇷, 🇺🇸, 🇩🇰, 🇳🇱, and 🇪�
 <img src="/img/team/mehdi.png" alt="Headshot of Mehdi Ali. He's a really good guy." width="200" align="center"/>
 <br />
 <b><a href="https://github.com/mali-git">Mehdi Ali</a></b>
-<p>Ph.D. candidate at the University of Bonn</p>
+<p>Ph.D. candidate at the University of Bonn and Fraunhofer IAIS</p>
 </td>
 <td style="text-align:center; width:200px; vertical-align: top; max-height: 200px">
 <img src="/img/team/laurent.png" alt="Headshot of Laurent Vermue" width="200" align="center"/>
@@ -52,11 +52,13 @@ from and living in 🇩🇪, 🇮🇷, 🇺🇸, 🇩🇰, 🇳🇱, and 🇪�
 <img src="/img/team/jens.jpg" alt="Headshot of Jens Lehmann" width="200" align="center"/>
 <br />
 <b><a href="http://jens-lehmann.org/">Jens Lehmann, Ph.D.</a></b>
+<p>P.I. at the University of Bonn and Fraunhofer IAIS</p>
 </td>
 <td style="text-align:center; width:200px; vertical-align: top; max-height: 200px">
 <img src="/img/team/volker.jpg" alt="Headshot of Volker Tresp" width="200" align="center"/>
 <br />
 <b><a href="https://www.dbs.ifi.lmu.de/~tresp/">Volker Tresp, Ph.D.</a></b>
+<p>P.I. at the Ludwig Maximilian University of Munich and Siemens</p>
 </td>
 <td style="width:200px;">
 <div style="display: block; visibility: hidden; width: 200px"></div>
