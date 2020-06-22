@@ -29,7 +29,7 @@ permalink: /team/
 <p style="padding: 5px;">Computational biologist at <a href="https://envedatherapeutics.com/">Enveda Therapeutics</a></p>
 </td>
 <td style="text-align:center; width:200px; vertical-align: top; max-height: 200px">
-<img src="/img/team/sahand.png" alt="Headshot of Sahand Sharifzadeh" style="text-align:center;" width="200"/>
+<img src="/img/team/sahand.jpg" alt="Headshot of Sahand Sharifzadeh" style="text-align:center;" width="200"/>
 <br />
 <b><a href="https://github.com/sharifza">Sahand Sharifzadeh</a></b>
 </td>
