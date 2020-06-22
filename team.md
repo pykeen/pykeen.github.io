@@ -9,7 +9,8 @@ permalink: /team/
 <img src="/img/team/charlie.jpeg" alt="Headshot of Charles Tapley Hoyt" width="200" align="center"/>
 <br />
 <a href="https://github.com/cthoyt">Charles Tapley Hoyt</a>
-</td style="text-align:center">
+<p>Computational biologist at <a href="https://envedatherapeutics.com/">Enveda Therapeutics</a></p>
+</td>
 <td>
 <img src="/img/team/laurent.png" alt="Headshot of Laurent Vermue" width="200" align="center"/>
 <br />
