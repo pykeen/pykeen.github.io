@@ -42,12 +42,12 @@ permalink: /team/
 
 <table>
 <tr>
-<td>
+<td style="text-align:center">
 <img src="/img/team/jens.jpg" alt="Headshot of Jens Lehmann" width="200" align="center"/>
 <br />
 <a href="http://jens-lehmann.org/">Jens Lehmann</a>
 </td>
-<td>
+<td style="text-align:center">
 <img src="/img/team/volker.jpg" alt="Headshot of Volker Tresp" width="200" align="center"/>
 <br />
 <a href="https://www.dbs.ifi.lmu.de/~tresp/">Volker Tresp</a>
