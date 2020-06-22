@@ -4,7 +4,7 @@ title: Team
 permalink: /team/
 ---
 PyKEEN is developed by an international, interdisciplinary, decentralized team. We're
-from 🇩🇪, 🇮🇷, 🇺🇸, 🇩🇰, and 🇪🇸.
+from and living in 🇩🇪, 🇮🇷, 🇺🇸, 🇩🇰, 🇳🇱, and 🇪🇸.
 
 <table>
 <tr>
