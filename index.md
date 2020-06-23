@@ -5,6 +5,43 @@ layout: home
 PyKEEN (**Py**thon **K**nowl**E**dge **E**mbeddi**N**gs) is a Python package designed to train and
 evaluate knowledge graph embedding models (incorporating multi-modal information)
 
+
+## Getting Started
+
+### Installation
+
+The development version of PyKEEN can be downloaded and installed from
+[GitHub](https://github.com/pykeen/pykeen) on Python 3.7+ with:
+
+```bash
+$ git clone https://github.com/pykeen/pykeen
+$ cd pykeen
+$ pip install -e .
+```
+
+### Training Wheels
+
+This example shows how to train a model on a data set and test on another data set.
+
+The fastest way to get up and running is to use the pipeline function. It
+provides a high-level entry into the extensible functionality of this package.
+The following example shows how to train and evaluate the TransE model on the
+Nations dataset. By default, the training loop uses the open world assumption
+and evaluates with rank-based evaluation.
+
+```python
+from pykeen.pipeline import pipeline
+pipeline_result = pipeline(
+     model='TransE',
+     dataset='nations',
+)
+hits_at_10 = pipeline_result.metric_results.get_metric('hits@10')
+```
+
+## Applications
+
+Below we highlight recent theoretical and applied uses of PyKEEN.
+
 ## Benchmarking Study
 
 <img src="/img/fb15k237.png" alt="FB15k237 Summary" />
