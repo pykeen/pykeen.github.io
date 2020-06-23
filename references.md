@@ -1,7 +1,7 @@
 ---
 layout: page
-title: References
-permalink: /references/
+title: Publications
+permalink: /publications/
 ---
 [**The KEEN Universe**](https://doi.org/10.1007/978-3-030-30796-7_1).
 <br /> Ali, M., Jabeen, H., Hoyt, C. T., & Lehmann, J. (2019).
