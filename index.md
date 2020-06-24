@@ -11,7 +11,14 @@ evaluate knowledge graph embedding models (incorporating multi-modal information
 ### Installation
 
 The development version of PyKEEN can be downloaded and installed from
-[GitHub](https://github.com/pykeen/pykeen) on Python 3.7+ with:
+[PyPI](https://pypi.org/project/pykeen/) on Python 3.7+ with:
+
+```bash
+pip install pykeen
+```
+
+The source code can be found on [GitHub](https://github.com/pykeen/pykeen) for installation
+in development mode with:
 
 ```bash
 $ git clone https://github.com/pykeen/pykeen
@@ -38,6 +45,8 @@ pipeline_result = pipeline(
 hits_at_10 = pipeline_result.metric_results.get_metric('hits@10')
 ```
 
+Full documentation can be found on [ReadTheDocs](https://pykeen.readthedocs.io).
+
 ## Applications
 
 Below we highlight recent theoretical and applied uses of PyKEEN.
@@ -52,6 +61,8 @@ training approaches, and usages of explicit modeling of inverse triples. This is
 of several datasets analyzed in this study. In our manuscript, we also assess the reproducibility
 of old models' best reported hyperparameters.
 
+[**Code**](https://github.com/pykeen/pykeen) | [**Data**](https://github.com/pykeen/benchmarking) | [**Paper TBD**]()
+
 ## Metaresearch Recommendations
 
 <img src="/img/metaresearch.png" alt="Metaresearch Schema" />
@@ -59,6 +70,7 @@ of old models' best reported hyperparameters.
 We used PyKEEN to train a scholarly recommendations system to suggest
 papers to read, grants to apply to, and collaborations to make.
 
+[**Code**](https://github.com/pykeen/pykeen) | [**Paper**](https://recnlp2019.github.io/papers/RecNLP2019_paper_20.pdf)
 
 ## Pathway Crosstalk Analysis
 
@@ -68,3 +80,5 @@ We used PyKEEN to train a pathway crosstalk analysis platform that identifies
 which biological pathways are connected, giving further insight into normal
 human pathophysiology and potentially leading to novel hypotheses for understanding 
 the aetiology of complex disease leading to novel drug discovery.
+
+[**Code**](https://github.com/smartdataanalytics/biokeen/) | [**Paper**](https://doi.org/10.1093/bioinformatics/btz117)
