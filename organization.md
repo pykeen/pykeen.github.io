@@ -93,7 +93,8 @@ The following organizations have supported the development of PyKEEN:
 - Enveda Therapeutics
 - Fraunhofer IAIS
 - Fraunhofer Center for Machine Learning
-- Ludwig Maximilian University of Munich
+- Ludwig-Maximilians-Universität München
+- Munich Center for Machine Learning (MCML)
 - Siemens
 - Technical University of Denmark
 - University of Bonn
