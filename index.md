@@ -61,7 +61,7 @@ training approaches, and usages of explicit modeling of inverse triples. This is
 of several datasets analyzed in this study. In our manuscript, we also assess the reproducibility
 of old models' best reported hyperparameters.
 
-[**Code**](https://github.com/pykeen/pykeen) | [**Data**](https://github.com/pykeen/benchmarking) | [**Paper TBD**]()
+[**Code**](https://github.com/pykeen/pykeen) | [**Data**](https://github.com/pykeen/benchmarking) | [**Paper**](http://arxiv.org/abs/2006.13365)
 
 ## Metaresearch Recommendations
 
