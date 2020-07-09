@@ -61,7 +61,7 @@ from and living in 🇩🇪, 🇮🇹, 🇮🇷, 🇺🇸, 🇩🇰, and 🇳�
 <a href="http://jens-lehmann.org/">
 <img src="/img/team/jens.jpg" alt="Headshot of Jens Lehmann" width="200" align="center"/>
 <br />
-<b>Jens Lehmann, Ph.D.</b>
+<b>Jens Lehmann, Prof.</b>
 </a>
 <p>P.I. at the University of Bonn and Fraunhofer IAIS</p>
 </td>
@@ -69,7 +69,7 @@ from and living in 🇩🇪, 🇮🇹, 🇮🇷, 🇺🇸, 🇩🇰, and 🇳�
 <a href="https://www.dbs.ifi.lmu.de/~tresp/">
 <img src="/img/team/volker.jpg" alt="Headshot of Volker Tresp" width="200" align="center"/>
 <br />
-<b>Volker Tresp, Ph.D.</b>
+<b>Volker Tresp, Prof.</b>
 </a>
 <p>P.I. at the Ludwig Maximilian University of Munich and Siemens</p>
 </td>
