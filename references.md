@@ -3,9 +3,13 @@ layout: page
 title: Publications
 permalink: /publications/
 ---
+[**PyKEEN 1.0: A Python Library for Training and Evaluating Knowledge Graph Embeddings**](https://arxiv.org/abs/2007.14175).
+<br /> Ali, M., Berrendorf, M., Hoyt, C. T., Vermue, L., Sharifzadeh, S., Tresp, V., & Lehmann, J. (2020).
+<br /> *arXiv*, **2007.14175**.
+
 [**Bringing Light Into the Dark: A Large-scale Evaluation of Knowledge Graph Embedding Models Under a Unified Framework**](http://arxiv.org/abs/2006.13365).
 <br /> Ali, M., Berrendorf, M., Hoyt, C. T., Vermue, L., Galkin, M., Sharifzadeh, S., Fischer, A., Tresp, V., & Lehmann, J. (2020).
-<br /> *arXiv*, 2006.13365.
+<br /> *arXiv*, **2006.13365**.
 
 [**The KEEN Universe**](https://doi.org/10.1007/978-3-030-30796-7_1).
 <br /> Ali, M., Jabeen, H., Hoyt, C. T., & Lehmann, J. (2019).
