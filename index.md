@@ -5,7 +5,6 @@ layout: home
 PyKEEN (**Py**thon **K**nowl**E**dge **E**mbeddi**N**gs) is a Python package designed to train and
 evaluate knowledge graph embedding models (incorporating multi-modal information)
 
-
 ## Getting Started
 
 ### Installation
@@ -46,39 +45,3 @@ hits_at_10 = pipeline_result.metric_results.get_metric('hits@10')
 ```
 
 Full documentation can be found on [ReadTheDocs](https://pykeen.readthedocs.io).
-
-## Applications
-
-Below we highlight recent theoretical and applied uses of PyKEEN.
-
-## Benchmarking Study
-
-<img src="/img/fb15k237.png" alt="FB15k237 Summary" />
-
-We've run an unprecedented large benchmarking study. This image describes the results
-on the FB15k237 dataset across several knowledge graph embedding models, loss functions,
-training approaches, and usages of explicit modeling of inverse triples. This is just one
-of several datasets analyzed in this study. In our manuscript, we also assess the reproducibility
-of old models' best reported hyperparameters.
-
-[**Code**](https://github.com/pykeen/pykeen) | [**Data**](https://github.com/pykeen/benchmarking) | [**Paper**](http://arxiv.org/abs/2006.13365)
-
-## Metaresearch Recommendations
-
-<img src="/img/metaresearch.png" alt="Metaresearch Schema" />
-
-We used PyKEEN to train a scholarly recommendations system to suggest
-papers to read, grants to apply to, and collaborations to make.
-
-[**Code**](https://github.com/pykeen/pykeen) | [**Paper**](https://recnlp2019.github.io/papers/RecNLP2019_paper_20.pdf)
-
-## Pathway Crosstalk Analysis
-
-<img src="/img/pathways.png" alt="Pathway Crosstalk Schema" />
-
-We used PyKEEN to train a pathway crosstalk analysis platform that identifies
-which biological pathways are connected, giving further insight into normal
-human pathophysiology and potentially leading to novel hypotheses for understanding 
-the aetiology of complex disease leading to novel drug discovery.
-
-[**Code**](https://github.com/smartdataanalytics/biokeen/) | [**Paper**](https://doi.org/10.1093/bioinformatics/btz117)
