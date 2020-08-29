@@ -5,27 +5,11 @@ layout: home
 PyKEEN (**Py**thon **K**nowl**E**dge **E**mbeddi**N**gs) is a Python package designed to train and
 evaluate knowledge graph embedding models (incorporating multi-modal information)
 
+GitHub: https://github.com/pykeen/pykeen
+Tutorials: https://pykeen.readthedocs.io/en/latest/tutorial/first_steps.html
+Twitter: https://twitter.com/keenuniverse
+
 ## Getting Started
-
-### Installation
-
-The development version of PyKEEN can be downloaded and installed from
-[PyPI](https://pypi.org/project/pykeen/) on Python 3.7+ with:
-
-```bash
-pip install pykeen
-```
-
-The source code can be found on [GitHub](https://github.com/pykeen/pykeen) for installation
-in development mode with:
-
-```bash
-$ git clone https://github.com/pykeen/pykeen
-$ cd pykeen
-$ pip install -e .
-```
-
-### Training Wheels
 
 This example shows how to train a model on a data set and test on another data set.
 
@@ -37,11 +21,28 @@ world assumption and evaluates with rank-based evaluation.
 
 ```python
 from pykeen.pipeline import pipeline
-pipeline_result = pipeline(
+
+results = pipeline(
      model='TransE',
      dataset='nations',
 )
-hits_at_10 = pipeline_result.metric_results.get_metric('hits@10')
+hits_at_10 = results.metric_results.get_metric('hits@10')
 ```
 
 Full documentation can be found on [ReadTheDocs](https://pykeen.readthedocs.io).
+
+## Installation
+
+PyKEEN can be installed with pip on Python version 3.6+.
+
+```bash
+pip install pykeen
+```
+
+More information at https://pykeen.readthedocs.io/en/latest/installation.html.
+
+## Citation 
+
+[**PyKEEN 1.0: A Python Library for Training and Evaluating Knowledge Graph Embeddings**](https://arxiv.org/abs/2007.14175).
+<br /> Ali, M., Berrendorf, M., Hoyt, C. T., Vermue, L., Sharifzadeh, S., Tresp, V., & Lehmann, J. (2020).
+<br /> *arXiv*, **2007.14175**.
