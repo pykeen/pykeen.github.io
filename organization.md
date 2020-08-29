@@ -61,7 +61,7 @@ from and living in 🇩🇪, 🇮🇹, 🇮🇷, 🇺🇸, 🇩🇰, and 🇳�
 <a href="http://jens-lehmann.org/">
 <img src="/img/team/jens.jpg" alt="Headshot of Jens Lehmann" width="200" align="center"/>
 <br />
-<b>Jens Lehmann, Prof.</b>
+<b>Prof. Dr. Jens Lehmann</b>
 </a>
 <p>P.I. at the University of Bonn and Fraunhofer IAIS</p>
 </td>
@@ -69,7 +69,7 @@ from and living in 🇩🇪, 🇮🇹, 🇮🇷, 🇺🇸, 🇩🇰, and 🇳�
 <a href="https://www.dbs.ifi.lmu.de/~tresp/">
 <img src="/img/team/volker.jpg" alt="Headshot of Volker Tresp" width="200" align="center"/>
 <br />
-<b>Volker Tresp, Prof.</b>
+<b>Prof. Dr. Volker Tresp</b>
 </a>
 <p>P.I. at the Ludwig Maximilian University of Munich and Siemens</p>
 </td>
@@ -79,22 +79,22 @@ from and living in 🇩🇪, 🇮🇹, 🇮🇷, 🇺🇸, 🇩🇰, and 🇳�
 </tr>
 </table>
 
-## Contributors
-
-- [Daniel Domingo Fernández](https://github.com/ddomingof)
-- [Michael F. Schönitzer](https://github.com/Nudin)
-- [Maximilian Hünemörder](https://github.com/huenemoerder)
+Additional code contributors are listed in the
+[PyKEEN repository](https://github.com/pykeen/pykeen/blob/master/AUTHORS.md#contributors).
 
 ## Supporters
 
-The following organizations have supported the development of PyKEEN:
+This project has been supported by several organizations (in alphabetical order):
 
-- Bayer
-- Enveda Therapeutics
-- Fraunhofer IAIS
-- Fraunhofer Center for Machine Learning
-- Ludwig-Maximilians-Universität München
-- Munich Center for Machine Learning (MCML)
-- Siemens
-- Technical University of Denmark
-- University of Bonn
+- [Bayer](https://www.bayer.com/)
+- [Enveda Therapeutics](https://envedatherapeutics.com/)
+- [Fraunhofer Institute for Algorithms and Scientific Computing](https://www.scai.fraunhofer.de)
+- [Fraunhofer Institute for Intelligent Analysis and Information Systems](https://www.iais.fraunhofer.de)
+- [Fraunhofer Center for Machine Learning](https://www.cit.fraunhofer.de/de/zentren/maschinelles-lernen.html)
+- [Ludwig-Maximilians-Universität München](https://www.en.uni-muenchen.de/index.html)
+- [Munich Center for Machine Learning (MCML)](https://mcml.ai/)
+- [Siemens](https://new.siemens.com/global/en.html)
+- [Smart Data Analytics Research Group (University of Bonn & Fraunhofer IAIS)](https://sda.tech)
+- [Technical University of Denmark - DTU Compute - Section for Cognitive Systems](https://www.compute.dtu.dk/english/research/research-sections/cogsys)
+- [Technical University of Denmark - DTU Compute - Section for Statistics and Data Analysis](https://www.compute.dtu.dk/english/research/research-sections/stat)
+- [University of Bonn](https://www.uni-bonn.de/)
