@@ -33,6 +33,11 @@ permalink: /publications/
 
 ## Selected Citing Papers
 
+[**CLEP: A Hybrid Data- and Knowledge- Driven Framework for Generating Patient Representations**](https://doi.org/10.1101/2020.08.20.259226
+).
+<br />Bharadhwaj, V. S., Ali, M., Birkenbihl, C., Mubeen, S., Lehmann, J., Hofmann-Apitius, M., Hoyt, C. T., & Domingo-Fernandez, D. (2020).
+<br />*bioRxiv*, 2020.08.20.259226. 
+
 [**OpenBioLink: A benchmarking framework for large-scale biomedical link prediction**](https://doi.org/10.1093/bioinformatics/btaa274)
 <br /> Breit, A., Ott, S., Agibetov, A., & Samwald, M. (2020).
 <br /> *Bioinformatics* 
