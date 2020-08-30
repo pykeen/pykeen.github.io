@@ -2,6 +2,7 @@
 layout: post
 title: Metaresearch Recommendations
 author: Charles Tapley Hoyt
+image: /img/metaresearch.png
 date: 2020-06-23 00:00:00 -0700
 ---
 We used PyKEEN to train a scholarly recommendations system to suggest

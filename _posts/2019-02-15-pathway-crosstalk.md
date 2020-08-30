@@ -2,6 +2,7 @@
 layout: post
 title: Pathway Crosstalk Predictions
 author: Charles Tapley Hoyt
+image: /img/pathways.png
 date: 2019-02-15 00:00:00 -0800
 ---
 We used PyKEEN to train a pathway crosstalk analysis platform that identifies

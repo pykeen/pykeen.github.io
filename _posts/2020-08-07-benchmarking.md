@@ -2,6 +2,7 @@
 layout: post
 title: Benchmarking Study
 author: Charles Tapley Hoyt
+image: /img/fb15k237.png
 date: 2020-08-07 00:00:00 -0800
 ---
 We've run an unprecedented large benchmarking study. This image describes the results
