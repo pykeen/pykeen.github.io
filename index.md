@@ -7,8 +7,8 @@ evaluate knowledge graph embedding models (incorporating multi-modal information
 
 Find us on:
 
-- [GitHub](https://github.com/pykeen/pykeen)
-- [Twitter](https://twitter.com/keenuniverse)
+- [GitHub](https://github.com/pykeen/pykeen) ![GitHub stars](https://img.shields.io/github/stars/pykeen/pykeen?label=PyKEEN%20on%20GitHub&style=social)
+- [Twitter](https://twitter.com/keenuniverse) ![Twitter Follow](https://img.shields.io/twitter/follow/keenuniverse?style=social)
 - [Tutorials](https://pykeen.readthedocs.io/en/latest/tutorial/first_steps.html)
 
 ## Getting Started
@@ -47,4 +47,4 @@ More information at https://pykeen.readthedocs.io/en/latest/installation.html.
 
 [**PyKEEN 1.0: A Python Library for Training and Evaluating Knowledge Graph Embeddings**](https://arxiv.org/abs/2007.14175).
 <br /> Ali, M., Berrendorf, M., Hoyt, C. T., Vermue, L., Sharifzadeh, S., Tresp, V., & Lehmann, J. (2020).
-<br /> *arXiv*, **2007.14175**.
+<br /> *arXiv*, 2007.14175.

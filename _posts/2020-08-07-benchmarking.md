@@ -2,8 +2,11 @@
 layout: post
 title: Benchmarking Study
 author: Charles Tapley Hoyt
-image: /img/fb15k237.png
 date: 2020-08-07 00:00:00 -0800
+image: /img/fb15k237.png
+code: https://github.com/pykeen/pykeen
+data: https://github.com/pykeen/benchmarking
+paper: http://arxiv.org/abs/2006.13365
 ---
 We've run an unprecedented large benchmarking study. This image describes the results
 on the FB15k237 dataset across several knowledge graph embedding models, loss functions,
