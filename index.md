@@ -5,9 +5,11 @@ layout: home
 PyKEEN (**Py**thon **K**nowl**E**dge **E**mbeddi**N**gs) is a Python package designed to train and
 evaluate knowledge graph embedding models (incorporating multi-modal information)
 
-GitHub: https://github.com/pykeen/pykeen
-Tutorials: https://pykeen.readthedocs.io/en/latest/tutorial/first_steps.html
-Twitter: https://twitter.com/keenuniverse
+Find us on:
+
+- [GitHub](https://github.com/pykeen/pykeen)
+- [Twitter](https://twitter.com/keenuniverse)
+- [Tutorials](https://pykeen.readthedocs.io/en/latest/tutorial/first_steps.html)
 
 ## Getting Started
 
