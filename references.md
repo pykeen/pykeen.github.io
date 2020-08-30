@@ -5,11 +5,11 @@ permalink: /publications/
 ---
 [**PyKEEN 1.0: A Python Library for Training and Evaluating Knowledge Graph Embeddings**](https://arxiv.org/abs/2007.14175).
 <br /> Ali, M., Berrendorf, M., Hoyt, C. T., Vermue, L., Sharifzadeh, S., Tresp, V., & Lehmann, J. (2020).
-<br /> *arXiv*, **2007.14175**.
+<br /> *arXiv*, 2007.14175.
 
 [**Bringing Light Into the Dark: A Large-scale Evaluation of Knowledge Graph Embedding Models Under a Unified Framework**](http://arxiv.org/abs/2006.13365).
 <br /> Ali, M., Berrendorf, M., Hoyt, C. T., Vermue, L., Galkin, M., Sharifzadeh, S., Fischer, A., Tresp, V., & Lehmann, J. (2020).
-<br /> *arXiv*, **2006.13365**.
+<br /> *arXiv*, 2006.13365.
 
 [**The KEEN Universe**](https://doi.org/10.1007/978-3-030-30796-7_1).
 <br /> Ali, M., Jabeen, H., Hoyt, C. T., & Lehmann, J. (2019).
@@ -40,7 +40,7 @@ permalink: /publications/
 
 [**OpenBioLink: A benchmarking framework for large-scale biomedical link prediction**](https://doi.org/10.1093/bioinformatics/btaa274)
 <br /> Breit, A., Ott, S., Agibetov, A., & Samwald, M. (2020).
-<br /> *Bioinformatics* 
+<br /> *Bioinformatics*, btaa274. 
 
 [**Unveiling Relations in the Industry 4.0 Standards Landscape based on Knowledge Graph Embeddings**](https://arxiv.org/abs/2006.04556)
 <br /> Rivas, A., Grangel-González, I., Collarana, D., Lehmann, J., & Vidal, M. E. (2020).
