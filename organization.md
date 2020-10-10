@@ -39,7 +39,6 @@ from and living in 🇩🇪, 🇮🇹, 🇮🇷, 🇺🇸, 🇩🇰, and 🇳�
 <br />
 <b>Charles Tapley Hoyt, Ph.D.</b>
 </a>
-<p>Computational biologist at <a href="https://envedatherapeutics.com/">Enveda Therapeutics</a></p>
 </td>
 <td style="text-align:center; width:200px; vertical-align: top; max-height: 200px">
 <a href="https://scholar.google.com/citations?user=frzfxXYAAAAJ&hl=en">
