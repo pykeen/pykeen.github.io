@@ -57,6 +57,7 @@ More information at https://pykeen.readthedocs.io/en/latest/installation.html.
   large-scale benchmarking paper.
 - June 23, 2020: After nearly a year of work, the PyKEEN large-scale benchmarking paper is published
   to [arXiv](https://arxiv.org/abs/2006.13365).
+- August 2019: PyKEEN joins Twitter [@keenuniverse](https://twitter.com/keenuniverse).
 - April 2019: Max Berrendorf, Laurent Vermue, and Sahand Sharifzadeh join the team.
 - February 13, 2019: The PyKEEN biological application manuscript is accepted
   by [Oxford Bioinformatics](https://doi.org/10.1093/bioinformatics/btz117).
