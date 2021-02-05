@@ -51,8 +51,13 @@ More information at https://pykeen.readthedocs.io/en/latest/installation.html.
 
 ## History
 
-- February 13, 2019: The BioKEEN manuscript is accepted by Oxford Bioinformatics
-- November 23, 2018: The preprint describing PyKEEN's application in BioKEEN is published
+- July 28, 2020: With all the improvements made to support the PyKEEN benchmarking paper, the PyKEEN 1.0 paper is
+  published to [arXiv](https://arxiv.org/abs/2007.14175).
+- June 23, 2020: After nearly a year of work, the PyKEEN large-scale benchmarking paper is published
+  to [arXiv](https://arxiv.org/abs/2006.13365).
+- February 13, 2019: The PyKEEN biological application manuscript is accepted
+  by [Oxford Bioinformatics](https://doi.org/10.1093/bioinformatics/btz117).
+- November 23, 2018: The PyKEEN's biological application preprint is published
   on [bioRxiv](https://www.biorxiv.org/content/10.1101/475202v1)
 - October 9, 2018: Our first release on [PyPI](https://pypi.org/project/pykeen/0.0.1/) and first build
   on [ReadTheDocs](https://readthedocs.org/projects/pykeen/builds/7912003/).
