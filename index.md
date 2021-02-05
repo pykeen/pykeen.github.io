@@ -48,3 +48,15 @@ More information at https://pykeen.readthedocs.io/en/latest/installation.html.
 [**PyKEEN 1.0: A Python Library for Training and Evaluating Knowledge Graph Embeddings**](https://arxiv.org/abs/2007.14175).
 <br /> Ali, M., Berrendorf, M., Hoyt, C. T., Vermue, L., Sharifzadeh, S., Tresp, V., & Lehmann, J. (2020).
 <br /> *arXiv*, 2007.14175.
+
+## History
+
+- February 13, 2019: The BioKEEN manuscript is accepted by Oxford Bioinformatics
+- November 23, 2018: The preprint describing PyKEEN's application in BioKEEN is published
+  on [bioRxiv](https://www.biorxiv.org/content/10.1101/475202v1)
+- October 9, 2018: Our first release on [PyPI](https://pypi.org/project/pykeen/0.0.1/) and first build
+  on [ReadTheDocs](https://readthedocs.org/projects/pykeen/builds/7912003/).
+- June 6, 2018: Our first [commit](https://github.com/pykeen/pykeen/commit/00dc2237cdbb46536d98068546bc7a801ae4126d) on
+  GitHub. Initially, this repository was authored by Mehdi Ali under
+  the [Smart Data Analytics](https://github.com/smartdataanalytics/)
+  organization, but as the project and the team grew, we moved it to its own organization.
