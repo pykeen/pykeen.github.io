@@ -53,6 +53,8 @@ More information at https://pykeen.readthedocs.io/en/latest/installation.html.
 
 - July 28, 2020: With all the improvements made to support the PyKEEN benchmarking paper, the PyKEEN 1.0 paper is
   published to [arXiv](https://arxiv.org/abs/2007.14175).
+- June 25, 2020: PyKEEN version [1.0.0](https://pypi.org/project/pykeen/1.0.0/) is published to PyPI to complement the
+  large-scale benchmarking paper.
 - June 23, 2020: After nearly a year of work, the PyKEEN large-scale benchmarking paper is published
   to [arXiv](https://arxiv.org/abs/2006.13365).
 - April 2019: Max Berrendorf, Laurent Vermue, and Sahand Sharifzadeh join the team.
