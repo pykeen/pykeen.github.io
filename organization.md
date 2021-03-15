@@ -39,6 +39,7 @@ from and living in 🇩🇪, 🇮🇹, 🇮🇷, 🇺🇸, 🇩🇰, and 🇳�
 <br />
 <b>Charles Tapley Hoyt, Ph.D.</b>
 </a>
+<p>Postdoctoral Research Fellow at Harvard Medical School</p>
 </td>
 <td style="text-align:center; width:200px; vertical-align: top; max-height: 200px">
 <a href="https://scholar.google.com/citations?user=frzfxXYAAAAJ&hl=en">
