@@ -45,12 +45,14 @@ More information at https://pykeen.readthedocs.io/en/latest/installation.html.
 
 ## Citation 
 
-[**PyKEEN 1.0: A Python Library for Training and Evaluating Knowledge Graph Embeddings**](https://arxiv.org/abs/2007.14175).
+[**PyKEEN 1.0: A Python Library for Training and Evaluating Knowledge Graph Embeddings**](http://jmlr.org/papers/v22/20-825.html).
 <br /> Ali, M., Berrendorf, M., Hoyt, C. T., Vermue, L., Sharifzadeh, S., Tresp, V., & Lehmann, J. (2020).
-<br /> *arXiv*, 2007.14175.
+<br /> Journal of Machine Learning Research, **22**(82), 1–6.
 
 ## History
 
+- March 5, 2021: The PyKEEN 1.0 software paper is accepted for publication in
+  [JMLR](http://jmlr.org/papers/v22/20-825.html).
 - July 28, 2020: With all the improvements made to support the PyKEEN benchmarking paper, the PyKEEN 1.0 software paper
   is published to [arXiv](https://arxiv.org/abs/2007.14175).
 - June 25, 2020: PyKEEN version [1.0.0](https://pypi.org/project/pykeen/1.0.0/) is published to PyPI to complement the
