@@ -13,41 +13,27 @@ Find us on:
 
 ## Getting Started
 
-This example shows how to train a model on a data set and test on another data set.
-
-The fastest way to get up and running is to use the pipeline function. It
-provides a high-level entry into the extensible functionality of this package.
-The following example shows how to train and evaluate the TransE model on the
-Nations dataset. By default, the training loop uses the stochastic local closed
-world assumption and evaluates with rank-based evaluation.
+Train the TransE model on the Nations dataset with:
 
 ```python
 from pykeen.pipeline import pipeline
 
-results = pipeline(
-     model='TransE',
-     dataset='nations',
-)
-hits_at_10 = results.metric_results.get_metric('hits@10')
+results = pipeline(model='TransE', dataset='Nations')
+hits_at_10 = results.get_metric('hits@10')
 ```
 
-Full documentation can be found on [ReadTheDocs](https://pykeen.readthedocs.io).
+The default training loop uses the stochastic local closed world assumption, uniform negative sampling, and evaluates
+with rank-based evaluation. How to configure these options, and more, are included in the
+[documentation](https://pykeen.readthedocs.io).
 
 ## Installation
 
-PyKEEN can be installed with pip on Python version 3.6+.
+PyKEEN can be installed with `pip` on Python version 3.7+. More details on
+[Read the Docs](https://pykeen.readthedocs.io/en/latest/installation.html).
 
-```bash
-pip install pykeen
+```shell
+$ pip install pykeen
 ```
-
-More information at https://pykeen.readthedocs.io/en/latest/installation.html.
-
-## Citation 
-
-[**PyKEEN 1.0: A Python Library for Training and Evaluating Knowledge Graph Embeddings**](http://jmlr.org/papers/v22/20-825.html).
-<br /> Ali, M., Berrendorf, M., Hoyt, C. T., Vermue, L., Sharifzadeh, S., Tresp, V., & Lehmann, J. (2020).
-<br /> Journal of Machine Learning Research, **22**(82), 1–6.
 
 ## History
 
@@ -72,3 +58,25 @@ More information at https://pykeen.readthedocs.io/en/latest/installation.html.
   GitHub. Initially, this repository was authored by Mehdi Ali under
   the [Smart Data Analytics](https://github.com/smartdataanalytics/)
   organization, but as the project and the team grew, we moved it to its own organization.
+
+## Citation
+
+[**PyKEEN 1.0: A Python Library for Training and Evaluating Knowledge Graph
+Embeddings**](http://jmlr.org/papers/v22/20-825.html).
+<br /> Ali, M., Berrendorf, M., Hoyt, C. T., Vermue, L., Sharifzadeh, S., Tresp, V., & Lehmann, J. (2020).
+<br /> *Journal of Machine Learning Research*, **22**(82), 1–6.
+
+BibTeX Entry:
+
+```bibtex
+@article{pykeen2021,
+    author = {Ali, Mehdi and Berrendorf, Max and Hoyt, Charles Tapley and Vermue, Laurent and Sharifzadeh, Sahand and Tresp, Volker and Lehmann, Jens},
+    journal = {Journal of Machine Learning Research},
+    number = {82},
+    pages = {1--6},
+    title = {{PyKEEN 1.0: A Python Library for Training and Evaluating Knowledge Graph Embeddings}},
+    url = {https://jmlr.org/papers/v22/20-825.html},
+    volume = {22},
+    year = {2021}
+}
+```
