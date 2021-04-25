@@ -74,7 +74,7 @@ BibTeX Entry:
     journal = {Journal of Machine Learning Research},
     number = {82},
     pages = {1--6},
-    title = {{PyKEEN 1.0: A Python Library for Training and Evaluating Knowledge Graph Embeddings}},
+    title = {% raw %}{{PyKEEN 1.0: A Python Library for Training and Evaluating Knowledge Graph Embeddings}}{% endraw %},
     url = {https://jmlr.org/papers/v22/20-825.html},
     volume = {22},
     year = {2021}
