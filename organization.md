@@ -4,52 +4,52 @@ title: Organization
 permalink: /organization/
 ---
 PyKEEN is developed by an international, interdisciplinary, decentralized core team. We're
-from and living in 🇩🇪, 🇮🇹, 🇮🇷, 🇺🇸, 🇩🇰, and 🇳🇱.
+from and living in 🇩🇪, 🇮🇹, 🇮🇷, 🇺🇸, 🇩🇰, and 🇳🇱. (listed alphabetically by last name)
 
 <table>
 <tr>
-<td style="text-align:center; width:200px; vertical-align: top; max-height: 200px">
-<a href="https://github.com/mali-git">
-<img src="/img/team/mehdi.png" alt="Headshot of Mehdi Ali. He's a really good guy." width="200" align="center"/>
-<br />
-<b>Mehdi Ali</b></a>
-<p>Ph.D. candidate at the University of Bonn and Fraunhofer IAIS</p>
-</td>
-<td style="text-align:center; width:200px; vertical-align: top; max-height: 200px">
-<a href="https://github.com/lvermue">
-<img src="/img/team/laurent.png" alt="Headshot of Laurent Vermue" width="200" align="center"/>
-<br />
-<b>Laurent Vermue</b>
-</a>
-<p>Ph.D. candidate at the Technical University of Denmark</p>
-</td>
-<td style="text-align:center; width:200px; vertical-align: top; max-height: 200px">
-<a href="https://github.com/mberr">
-<img src="/img/team/max.jpg" alt="Headshot of Max Berrendorf" width="200" align="center"/>
-<br />
-<b>Max Berrendorf</b>
-</a>
-<p>Ph.D. candidate at the Ludwig Maximilian University of Munich</p>
-</td>
+    <td style="text-align:center; width:200px; vertical-align: top; max-height: 200px">
+        <a href="https://github.com/mali-git">
+        <img src="/img/team/mehdi.png" alt="Headshot of Mehdi Ali. He's a really good guy." width="200" align="center"/>
+        <br />
+        <b>Mehdi Ali</b></a>
+        <p>Ph.D. candidate at the University of Bonn and Fraunhofer IAIS</p>
+    </td>
+    <td style="text-align:center; width:200px; vertical-align: top; max-height: 200px">
+        <a href="https://cthoyt.com">
+        <img src="/img/team/charlie.jpeg" alt="Headshot of Charles Tapley Hoyt" width="200" align="center"/>
+        <br />
+        <b>Charles Tapley Hoyt, Ph.D.</b>
+        </a>
+        <p>Postdoctoral Research Fellow at Harvard Medical School</p>
+    </td>
+    <td style="text-align:center; width:200px; vertical-align: top; max-height: 200px">
+        <a href="https://github.com/mberr">
+        <img src="/img/team/max.jpg" alt="Headshot of Max Berrendorf" width="200" align="center"/>
+        <br />
+        <b>Max Berrendorf</b>
+        </a>
+        <p>Ph.D. candidate at the Ludwig Maximilian University of Munich</p>
+    </td>
 </tr>
 <tr>
-<td style="text-align:center; width:200px; vertical-align: top; max-height: 200px">
-<a href="https://cthoyt.com">
-<img src="/img/team/charlie.jpeg" alt="Headshot of Charles Tapley Hoyt" width="200" align="center"/>
-<br />
-<b>Charles Tapley Hoyt, Ph.D.</b>
-</a>
-<p>Postdoctoral Research Fellow at Harvard Medical School</p>
-</td>
-<td style="text-align:center; width:200px; vertical-align: top; max-height: 200px">
-<a href="https://scholar.google.com/citations?user=frzfxXYAAAAJ&hl=en">
-<img src="/img/team/sahand.jpg" alt="Headshot of Sahand Sharifzadeh" style="text-align:center;" width="200"/>
-<br />
-<b>Sahand Sharifzadeh</b>
-</a>
-<p>Ph.D. candidate at the  Ludwig Maximilian University of Munich</p>
-</td>
-<td></td>
+    <td style="text-align:center; width:200px; vertical-align: top; max-height: 200px">
+        <a href="https://scholar.google.com/citations?user=frzfxXYAAAAJ&hl=en">
+        <img src="/img/team/sahand.jpg" alt="Headshot of Sahand Sharifzadeh" style="text-align:center;" width="200"/>
+        <br />
+        <b>Sahand Sharifzadeh</b>
+        </a>
+        <p>Ph.D. candidate at the  Ludwig Maximilian University of Munich</p>
+    </td>
+    <td style="text-align:center; width:200px; vertical-align: top; max-height: 200px">
+        <a href="https://github.com/lvermue">
+        <img src="/img/team/laurent.png" alt="Headshot of Laurent Vermue" width="200" align="center"/>
+        <br />
+        <b>Laurent Vermue</b>
+        </a>
+        <p>Ph.D. candidate at the Technical University of Denmark</p>
+    </td>
+    <td></td>
 </tr>
 </table>
 
