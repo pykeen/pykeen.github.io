@@ -16,20 +16,20 @@ from and living in 🇩🇪, 🇮🇹, 🇮🇷, 🇺🇸, 🇩🇰, and 🇳�
         <p>Ph.D. candidate at the University of Bonn and Fraunhofer IAIS</p>
     </td>
     <td style="text-align:center; width:200px; vertical-align: top; max-height: 200px">
-        <a href="https://cthoyt.com">
-        <img src="/img/team/charlie.jpeg" alt="Headshot of Charles Tapley Hoyt" width="200" align="center"/>
-        <br />
-        <b>Charles Tapley Hoyt, Ph.D.</b>
-        </a>
-        <p>Postdoctoral Research Fellow at Harvard Medical School</p>
-    </td>
-    <td style="text-align:center; width:200px; vertical-align: top; max-height: 200px">
         <a href="https://github.com/mberr">
         <img src="/img/team/max.jpg" alt="Headshot of Max Berrendorf" width="200" align="center"/>
         <br />
         <b>Max Berrendorf</b>
         </a>
         <p>Ph.D. candidate at the Ludwig Maximilian University of Munich</p>
+    </td>
+    <td style="text-align:center; width:200px; vertical-align: top; max-height: 200px">
+        <a href="https://cthoyt.com">
+        <img src="/img/team/charlie.jpeg" alt="Headshot of Charles Tapley Hoyt" width="200" align="center"/>
+        <br />
+        <b>Charles Tapley Hoyt, Ph.D.</b>
+        </a>
+        <p>Postdoctoral Research Fellow at Harvard Medical School</p>
     </td>
 </tr>
 <tr>
