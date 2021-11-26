@@ -45,9 +45,9 @@ from and living in 🇩🇪, 🇮🇹, 🇮🇷, 🇺🇸, 🇩🇰, and 🇳�
         <a href="https://github.com/lvermue">
         <img src="/img/team/laurent.png" alt="Headshot of Laurent Vermue" width="200" align="center"/>
         <br />
-        <b>Laurent Vermue</b>
+        <b>Laurent Vermue, Ph.D.</b>
         </a>
-        <p>Ph.D. candidate at the Technical University of Denmark</p>
+        <p>Researcher at the Technical University of Denmark</p>
     </td>
     <td></td>
 </tr>
