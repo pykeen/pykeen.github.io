@@ -24,6 +24,16 @@ from and living in 🇩🇪, 🇮🇹, 🇮🇷, 🇺🇸, 🇩🇰, and 🇳�
         <p>Ph.D. candidate at the Ludwig Maximilian University of Munich</p>
     </td>
     <td style="text-align:center; width:200px; vertical-align: top; max-height: 200px">
+        <a href="https://migalkin.github.io">
+        <img src="/img/team/michael.jpeg" alt="Headshot of Michael Galkint" width="200" align="center"/>
+        <br />
+        <b>Michael Galkin, Ph.D.</b>
+        </a>
+        <p>Postdoctoral Fellow at Mila & McGill University</p>
+    </td>
+</tr>
+<tr>
+    <td style="text-align:center; width:200px; vertical-align: top; max-height: 200px">
         <a href="https://cthoyt.com">
         <img src="/img/team/charlie.jpeg" alt="Headshot of Charles Tapley Hoyt" width="200" align="center"/>
         <br />
@@ -31,8 +41,6 @@ from and living in 🇩🇪, 🇮🇹, 🇮🇷, 🇺🇸, 🇩🇰, and 🇳�
         </a>
         <p>Postdoctoral Research Fellow at Harvard Medical School</p>
     </td>
-</tr>
-<tr>
     <td style="text-align:center; width:200px; vertical-align: top; max-height: 200px">
         <a href="https://scholar.google.com/citations?user=frzfxXYAAAAJ&hl=en">
         <img src="/img/team/sahand.jpg" alt="Headshot of Sahand Sharifzadeh" style="text-align:center;" width="200"/>
@@ -49,7 +57,6 @@ from and living in 🇩🇪, 🇮🇹, 🇮🇷, 🇺🇸, 🇩🇰, and 🇳�
         </a>
         <p>Researcher at the Technical University of Denmark</p>
     </td>
-    <td></td>
 </tr>
 </table>
 
