@@ -4,7 +4,7 @@ title: Organization
 permalink: /organization/
 ---
 PyKEEN is developed by an international, interdisciplinary, decentralized core team. We're
-from and living in 🇩🇪, 🇮🇹, 🇮🇷, 🇺🇸, 🇩🇰, and 🇳🇱. (listed alphabetically by last name)
+from and living in 🇩🇪, 🇮🇹, 🇮🇷, 🇺🇸, 🇩🇰, 🇨🇦, and 🇳🇱. (listed alphabetically by last name)
 
 <table>
 <tr>
