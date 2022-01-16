@@ -38,7 +38,7 @@ $ pip install pykeen
 ## History
 
 - October 21, 2021: The PyKEEN large-scale benchmarking paper is accepted for
-  publication in [TPAMI](https://ieeexplore.ieee.org/document/9601281/authors#authors).
+  publication in [TPAMI](https://doi.org/10.1109/TPAMI.2021.3124805).
 - March 5, 2021: The PyKEEN 1.0 software paper is accepted for publication in
   [JMLR](http://jmlr.org/papers/v22/20-825.html).
 - July 28, 2020: With all the improvements made to support the PyKEEN benchmarking paper, the PyKEEN 1.0 software paper
