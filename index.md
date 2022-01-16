@@ -84,8 +84,10 @@ BibTeX Entry:
 ```
 
 [**Bringing Light Into the Dark: A Large-scale Evaluation of Knowledge Graph Embedding Models under a Unified Framework](https://doi.org/10.1109/TPAMI.2021.3124805)
-<br />Ali, M., Berrendorf, M., Hoyt, C.T., Vermue, L., Galkin, M., Sharifzadeh, S., Fischer, A., Tresp, V., & Lehmann, J.
-<br /> *Transactions on Pattern Analysis and Machine Intelligence *, **2021**.
+<br />Ali, M., Berrendorf, M., Hoyt, C.T., Vermue, L., Galkin, M., Sharifzadeh, S., Fischer, A., Tresp, V., & Lehmann, J. (2021).
+<br /> *Transactions on Pattern Analysis and Machine Intelligence*, **2021**.
+
+BibTeX Entry:
 
 ```bibtex
 @article{pykeen2021benchmarking,
