@@ -19,9 +19,9 @@ from and living in 🇩🇪, 🇮🇹, 🇮🇷, 🇺🇸, 🇩🇰, 🇨🇦, a
         <a href="https://github.com/mberr">
         <img src="/img/team/max.jpg" alt="Headshot of Max Berrendorf" width="200" align="center"/>
         <br />
-        <b>Max Berrendorf</b>
+        <b>Max Berrendorf, Ph.D.</b>
         </a>
-        <p>Ph.D. candidate at the Ludwig Maximilian University of Munich</p>
+        <p>Researcher at Ludwig Maximilian University of Munich</p>
     </td>
     <td style="text-align:center; width:200px; vertical-align: top; max-height: 200px">
         <a href="https://migalkin.github.io">
@@ -113,6 +113,7 @@ The development of PyKEEN has been funded by the following grants:
 
 | Funding Body                                             | Program                                                                                                                       | Grant           |
 |----------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|-----------------|
+| DARPA                                                    | [Young Faculty Award (PI: Benjamin Gyori)](https://indralab.github.io/#projects)                                              | W911NF2010255   |
 | DARPA                                                    | [Automating Scientific Knowledge Extraction (ASKE)](https://www.darpa.mil/program/automating-scientific-knowledge-extraction) | HR00111990009   |
 | German Federal Ministry of Education and Research (BMBF) | [Maschinelles Lernen mit Wissensgraphen (MLWin)](https://mlwin.de)                                                            | 01IS18050D      |
 | German Federal Ministry of Education and Research (BMBF) | [Munich Center for Machine Learning (MCML)](https://mcml.ai)                                                                  | 01IS18036A      |
