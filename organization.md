@@ -72,6 +72,7 @@ Made with [contrib.rocks](https://contrib.rocks).
 
 <table>
 <tr>
+
 <td style="text-align:center; width:200px; vertical-align: top;">
 <a href="http://jens-lehmann.org/">
 <img src="/img/team/jens.jpg" alt="Headshot of Jens Lehmann" width="200" align="center"/>
@@ -80,6 +81,7 @@ Made with [contrib.rocks](https://contrib.rocks).
 </a>
 <p>P.I. at the University of Bonn and Fraunhofer IAIS</p>
 </td>
+
 <td style="text-align:center; width:200px; vertical-align: top; max-height: 200px">
 <a href="https://www.dbs.ifi.lmu.de/~tresp/">
 <img src="/img/team/volker.jpg" alt="Headshot of Volker Tresp" width="200" align="center"/>
@@ -88,9 +90,16 @@ Made with [contrib.rocks](https://contrib.rocks).
 </a>
 <p>P.I. at the Ludwig Maximilian University of Munich and Siemens</p>
 </td>
-<td style="width:200px;">
-<div style="display: block; visibility: hidden; width: 200px"></div>
+
+<td style="text-align:center; width:200px; vertical-align: top; max-height: 200px">
+<a href="https://indralab.github.io/">
+<img src="https://indralab.github.io/images/gyori.png" alt="Headshot of Benjamin Gyori" width="200" align="center"/>
+<br />
+<b>Dr. Benjamin M. Gyori</b>
+</a>
+<p>Director of Machine-assisted Modeling and Analysis in the Laboratory of Systems Pharmacology at Harvard Medical School</p>
 </td>
+
 </tr>
 </table>
 
