@@ -60,6 +60,14 @@ from and living in 🇩🇪, 🇮🇹, 🇮🇷, 🇺🇸, 🇩🇰, 🇨🇦, a
 </tr>
 </table>
 
+## Contributors
+
+<a href="https://github.com/pykeen/pykeen/graphs/contributors">
+  <img alt="PyKEEN Contributors" src="https://contrib.rocks/image?repo=pykeen/pykeen" />
+</a>
+
+Made with [contrib.rocks](https://contrib.rocks).
+
 ## Advisors
 
 <table>
