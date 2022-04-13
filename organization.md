@@ -21,11 +21,11 @@ from and living in 🇩🇪, 🇮🇹, 🇮🇷, 🇺🇸, 🇩🇰, 🇨🇦, a
         <br />
         <b>Max Berrendorf, Ph.D.</b>
         </a>
-        <p>Researcher at Ludwig Maximilian University of Munich</p>
+        <p>Researcher at <a href="https://www.lmu.de">LMU Munich</a></p>
     </td>
     <td style="text-align:center; width:200px; vertical-align: top; max-height: 200px">
         <a href="https://migalkin.github.io">
-        <img src="/img/team/michael.jpeg" alt="Headshot of Michael Galkint" width="200" align="center"/>
+        <img src="/img/team/michael.jpeg" alt="Headshot of Michael Galkin" width="200" align="center"/>
         <br />
         <b>Michael Galkin, Ph.D.</b>
         </a>
@@ -47,7 +47,7 @@ from and living in 🇩🇪, 🇮🇹, 🇮🇷, 🇺🇸, 🇩🇰, 🇨🇦, a
         <br />
         <b>Sahand Sharifzadeh</b>
         </a>
-        <p>Ph.D. candidate at the  Ludwig Maximilian University of Munich</p>
+        <p>Ph.D. candidate at <a href="https://www.lmu.de">LMU Munich</a></p>
     </td>
     <td style="text-align:center; width:200px; vertical-align: top; max-height: 200px">
         <a href="https://github.com/lvermue">
