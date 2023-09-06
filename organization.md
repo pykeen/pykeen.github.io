@@ -21,7 +21,7 @@ from and living in 🇩🇪, 🇮🇹, 🇮🇷, 🇺🇸, 🇩🇰, 🇨🇦, a
         <br />
         <b>Max Berrendorf, Ph.D.</b>
         </a>
-        <p>Researcher at <a href="https://www.lmu.de">LMU Munich</a></p>
+        <p>Machine Learning Researcher at DeepL</p>
     </td>
     <td style="text-align:center; width:200px; vertical-align: top; max-height: 200px">
         <a href="https://migalkin.github.io">
