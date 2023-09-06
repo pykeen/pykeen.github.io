@@ -12,8 +12,8 @@ from and living in 🇩🇪, 🇮🇹, 🇮🇷, 🇺🇸, 🇩🇰, 🇨🇦, a
         <a href="https://github.com/mali-git">
         <img src="/img/team/mehdi.png" alt="Headshot of Mehdi Ali. He's a really good guy." width="200" align="center"/>
         <br />
-        <b>Mehdi Ali</b></a>
-        <p>Ph.D. candidate at the University of Bonn and Fraunhofer IAIS</p>
+        <b>Mehdi Ali, Ph.D.</b></a>
+        <p>Fraunhofer IAIS</p>
     </td>
     <td style="text-align:center; width:200px; vertical-align: top; max-height: 200px">
         <a href="https://github.com/mberr">
