@@ -8,7 +8,7 @@ evaluate knowledge graph embedding models (incorporating multi-modal information
 Find us on:
 
 - [GitHub](https://github.com/pykeen/pykeen) ![GitHub stars](https://img.shields.io/github/stars/pykeen/pykeen?label=PyKEEN%20on%20GitHub&style=social)
-- [Twitter](https://twitter.com/keenuniverse) ![Twitter Follow](https://img.shields.io/twitter/follow/keenuniverse?style=social)
+- [Mastodon](https://fosstodon.org/@pykeen)
 - [Tutorials](https://pykeen.readthedocs.io/en/latest/tutorial/first_steps.html)
 
 ## Getting Started
